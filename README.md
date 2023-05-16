@@ -4,20 +4,20 @@
 
 <p align="left"> 
   <img src="https://github.com/HollowDeev/HollowDeev/assets/106853230/c907f678-011c-4bd3-9f89-8d6e4baeb696" min-width="150px" max-width="150px" width="150px" align="left">
-  Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua área</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
+  Me chamo <strong>Thauã</strong>, tenho 18 anos e me apaixonei pelo universo da programação! <br> Atualmente curso <strong>Desenvolvimento de Software Multiplataforma</strong>.<br>
+  E estudo de forma autodidata nos tempos livres :) <br>
+  Sou facinado por <strong>IA</strong> e <strong>Desenvolvimento Web</strong>
 </p>
 
-<p align="left">
-  🦄 Linguagens: <strong>Coloque as linguagens que você desenvolve.</strong>
-</p>
+<hr>
+
+<div aling="left">
+   <span align="left"> 💻Focando em: <strong>PHP</strong> |</span>
+   <span> 💻Estudando tambem: <strong>MySQL, Modelagem Banco de Dados e POO </strong> </span>
+</div>
 
 <p align="left">
-  💼 Ferramentas: <strong>Coloque as suas ferramentas de trabalho.</strong>
-</p>
-
-<p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+  💌 Caso queira entrar em contato, para conversar ou me sugerir algo, fique a vontade :) ⤵️
 </p>
 
 <p align="left">
@@ -37,7 +37,22 @@
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HollowDeev&count_private=true&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-stats.vercel.app/api?username=HollowDeev&count_private=true&show_icons=true&theme=tokyonight" />
+<hr>
+
+<a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HollowDeev&count_private=true&show_icons=true&theme=tokyonight" align="left"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=HollowDeev&count_private=true&show_icons=true&theme=tokyonight"/>
+</a>
+
+<div>
+  <span> <strong>Minhas linguagens:</strong> </span><br><br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50px" width="60px" alt="Thaua-HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50px" width="60px" alt="Thaua-CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50px" width="60px" alt="Thaua-JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" height="50px" width="60px" alt="Thaua-PHP"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50px" width="60px" alt="Thaua-MySQL" />
+</div>
+
+
 
 
