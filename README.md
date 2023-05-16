@@ -1,6 +1,7 @@
 ### document.write("Hello World 👋")
 
-<img src="https://discord.com/channels/@me/764623877099356181/1108068324442636289" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://github.com/HollowDeev/HollowDeev/assets/106853230/ae364eae-4ada-4d02-9b9d-c664dcc16cd7
+" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
   Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua área</strong>.<br>
