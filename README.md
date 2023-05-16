@@ -1,6 +1,6 @@
 # document.write("Hellooo Wooorld!!!")
 
-<img src="https://github.com/HollowDeev/HollowDeev/assets/106853230/ae364eae-4ada-4d02-9b9d-c664dcc16cd7" min-width="500px" max-width="500px" width="500px" align="right">
+<img src="https://github.com/HollowDeev/HollowDeev/assets/106853230/ae364eae-4ada-4d02-9b9d-c664dcc16cd7" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
   <img src="https://github.com/HollowDeev/HollowDeev/assets/106853230/c907f678-011c-4bd3-9f89-8d6e4baeb696" min-width="150px" max-width="150px" width="150px" align="left">
