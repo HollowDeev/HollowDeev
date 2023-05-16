@@ -1,9 +1,9 @@
-### document.write("Hello World 👋")
+# document.write("Hellooo Wooorld!!!")
 
-<img src="https://github.com/HollowDeev/HollowDeev/assets/106853230/ae364eae-4ada-4d02-9b9d-c664dcc16cd7" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://github.com/HollowDeev/HollowDeev/assets/106853230/ae364eae-4ada-4d02-9b9d-c664dcc16cd7" min-width="500px" max-width="500px" width="500px" align="right">
 
 <p align="left"> 
-  <img src="https://github.com/HollowDeev/HollowDeev/assets/106853230/4f8e3ebc-ebab-4548-ba00-27c0aa0003e9" min-width="150px" max-width="150px" width="150px" align="left">
+  <img src="https://github.com/HollowDeev/HollowDeev/assets/106853230/c907f678-011c-4bd3-9f89-8d6e4baeb696" min-width="150px" max-width="150px" width="150px" align="left">
   Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua área</strong>.<br>
   Diga o que você está fazendo no momento, se trabalha ou estuda.
 </p>
@@ -36,7 +36,8 @@
   <a href="#" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
 </p>
-<div align="left">
-  
-</div>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HollowDeev&count_private=true&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=HollowDeev&count_private=true&show_icons=true&theme=tokyonight" />
+
 
