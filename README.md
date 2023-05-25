@@ -12,7 +12,7 @@
 <hr>
 
 <div aling="left">
-   <span align="left"> 💻Focando em: <strong>PHP</strong> |</span>
+   <span align="left"> 💻Focando em: <strong>React.js</strong> |</span>
    <span> 💻Estudando tambem: <strong>MySQL, Modelagem Banco de Dados e POO </strong> </span>
 </div>
 
