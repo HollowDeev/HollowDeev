@@ -1,5 +1,4 @@
 # return res.status(200).send('Hellooo Wooorld!!!')
-// document.write("Hellooo Wooorld!!!")
 
 <img src="https://github.com/HollowDeev/HollowDeev/assets/106853230/ae364eae-4ada-4d02-9b9d-c664dcc16cd7" min-width="300px" max-width="300px" width="300px" align="right">
 
