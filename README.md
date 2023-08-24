@@ -12,7 +12,7 @@
 <hr>
 
 <div aling="left">
-   <span align="left"> 💻Focando em: <strong>React.Js</strong> e <strong>Node.Js</strong>|</span>
+   <span align="left"> 💻Focando em: <strong>React.Js</strong> e <strong>Node.Js</strong> |</span>
    <span> 💻Estudando tambem: <strong>MongoDB, Java, PHP e Next</strong></span>
 </div>
 
