@@ -36,8 +36,8 @@
 <hr>
 
 <a align='center'>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HollowDeev&count_private=true&show_icons=true&theme=tokyonight" align="left" width="300px"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=HollowDeev&count_private=true&show_icons=true&theme=tokyonight" width="600px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HollowDeev&count_private=true&show_icons=true&theme=tokyonight" align="left" width="300px" min-width='200px'/>
+  <img src="https://github-readme-stats.vercel.app/api?username=HollowDeev&count_private=true&show_icons=true&theme=tokyonight" width="600px" min-width='450px'/>
 </a>
 
 
