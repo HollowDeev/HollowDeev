@@ -1,5 +1,7 @@
 # return res.status(200).send('Hellooo Wooorld!!!')
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A309BD&center=true&width=800px&lines=Ol%C3%A1+mundo!;Eu+me+chamo+Thau%C3%A3%2C;%C3%A9+um+prazer+t%C3%AA-lo+aqui!)](https://git.io/typing-svg)
+
 <img src="https://github.com/HollowDeev/HollowDeev/assets/106853230/ae364eae-4ada-4d02-9b9d-c664dcc16cd7" min-width="300px" max-width="300px" width="300px" align="right">
 
 <p align="left"> 
@@ -35,10 +37,22 @@
 </p>
 <hr>
 
-<a align='center'>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HollowDeev&count_private=true&show_icons=true&theme=tokyonight" align="left" width="300px" min-width='200px'/>
-  <img src="https://github-readme-stats.vercel.app/api?username=HollowDeev&count_private=true&show_icons=true&theme=tokyonight" width="600px" min-width='450px'/>
-</a>
+## Minhas linguagens e tecnologias:
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,java,mysql,postman,git,github" />
+  </a>
+</p>
+
+<div>
+  <a>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HollowDeev&count_private=true&show_icons=true&theme=tokyonight" align="left"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=HollowDeev&count_private=true&show_icons=true&theme=tokyonight" />
+  </a>
+</div>
+
+
 
 
 
