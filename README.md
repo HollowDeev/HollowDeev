@@ -53,3 +53,4 @@
 
 ![snake gif](https://github.com/HollowDeev/HollowDeev/blob/output/github-contribution-grid-snake.svg)
 
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=HollowDeev&repo=HollowDeev&theme=react)](https://github.com/HollowDeev/HollowDeev)
