@@ -13,7 +13,7 @@
 
 <div aling="left">
    <span align="left"> 💻Focando em: <strong>React.Js</strong> e <strong>Node.Js</strong> |</span>
-   <span> 💻Estudando tambem: <strong>MongoDB, Java, PHP e Next</strong></span>
+   <span> 💻Estudando tambem: <strong>MongoDB, Java e Next</strong></span>
 </div>
 
 <p align="left">
@@ -33,24 +33,13 @@
   <a href="https://www.instagram.com/thaua_felipe/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
 </p>
-
 <hr>
 
-<a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HollowDeev&count_private=true&show_icons=true&theme=tokyonight" align="left"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=HollowDeev&count_private=true&show_icons=true&theme=tokyonight"/>
+<a align='center'>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HollowDeev&count_private=true&show_icons=true&theme=tokyonight" align="left" width="300px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=HollowDeev&count_private=true&show_icons=true&theme=tokyonight" width="600px"/>
 </a>
 
-<div>
-  <span> <strong>Minhas linguagens:</strong> </span><br><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50px" width="60px" alt="Thaua-HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50px" width="60px" alt="Thaua-CSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50px" width="60px" alt="Thaua-JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" height="50px" width="60px" alt="Thaua-PHP"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50px" width="60px" alt="Thaua-MySQL" />
-</div>
+<p align="left">teste</p>
 
 
-![snake gif](https://github.com/HollowDeev/HollowDeev/blob/output/github-contribution-grid-snake.svg)
-
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=HollowDeev&repo=HollowDeev&theme=react)](https://github.com/HollowDeev/HollowDeev)
