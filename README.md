@@ -11,6 +11,8 @@
   Sou facinado por <strong>IA</strong> e <strong>Desenvolvimento Web</strong>
 </p>
 
+<br>
+
 <hr>
 
 <div aling="left">
