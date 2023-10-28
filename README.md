@@ -4,17 +4,6 @@
 
 <img src="https://github.com/HollowDeev/HollowDeev/assets/106853230/ae364eae-4ada-4d02-9b9d-c664dcc16cd7" min-width="300px" max-width="300px" width="300px" align="right">
 
-<p align="left"> 
-  <img src="https://github.com/HollowDeev/HollowDeev/assets/106853230/c907f678-011c-4bd3-9f89-8d6e4baeb696" min-width="150px" max-width="150px" width="150px" align="left">
-  Me chamo <strong>Thauã</strong>, tenho 18 anos e me apaixonei pelo universo da programação! <br> Atualmente curso <strong>Desenvolvimento de Software Multiplataforma</strong>.<br>
-  E estudo de forma autodidata nos tempos livres :) <br>
-  Sou facinado por <strong>IA</strong> e <strong>Desenvolvimento Web</strong>
-</p>
-
-<br>
-
-<hr>
-
 <div aling="left">
    <span align="left"> 💻Focando em: <strong>React.Js</strong> e <strong>Node.Js</strong> |</span>
    <span> 💻Estudando tambem: <strong>MongoDB, Java e Next</strong></span>
